@@ -1,6 +1,6 @@
 import DeatilsCard from "./DeatilsCard"
 import NewArrivalData from "../NewArrivalCard/NewArrivalData"
-import payment from "../../assets/payment.png"
+import payment from "../../assets/Payment.png"
 import QualityAssurance from "../../assets/Quality.png"
 import Stock from "../../assets/Stock.png"
 import Delivery from "../../assets/Delivery.png"
