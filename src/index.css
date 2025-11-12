@@ -1,0 +1,3 @@
+@import "@fontsource/inter"; /* Inter font import karein */
+@config "../tailwind.config.js"; 
+@import "tailwindcss";
